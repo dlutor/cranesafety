@@ -1,0 +1,15 @@
+{
+    "root":"../datasets",
+    "train":
+    {
+        "visdrone":"./data/train.data"
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/test.data"
+    },
+    "test":
+    {
+        "visdrone":"./data/test.data"
+    }
+}

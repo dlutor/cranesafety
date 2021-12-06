@@ -1,0 +1,6 @@
+.idea/
+output/
+models/
+logs/
+env
+__pycache__
